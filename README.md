@@ -15,6 +15,7 @@ Python 中文文本挖掘
   1）编码转换 （Done）
   2）按需求进行一定格式化 （Done）
   
+  
 3. 中文处理。
   1）分词（结巴分词为主）、词频统计等（Done）
   2）向量化（VSM，Word2vec，LDA等）（Done）
@@ -23,6 +24,7 @@ Python 中文文本挖掘
   5）输出各种json文件。（Done）
   6）Django建个站点进行交互。（Done）
   
+  
 4.可视化展示
   1）送到Elastic Stack创建索引，用Kibana展示 （Done）
   2）D3.js展示 （不会js，感觉略复杂）（Done）
